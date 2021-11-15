@@ -18,7 +18,7 @@ organizations:
   url: "https://prtimes.co.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PHPのお仕事してます。趣味でPython書いてます。
+bio: PHPのお仕事してます。趣味でPythonとGo書いてます。
 
 interests:
 - Web Application
@@ -41,7 +41,7 @@ social:
   link: https://twitter.com/app1e_s
 - icon: github
   icon_pack: fab
-  link: https://github.com/yameholo
+  link: https://github.com/meihei3
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
